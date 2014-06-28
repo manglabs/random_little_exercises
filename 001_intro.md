@@ -1,4 +1,4 @@
-### Exercise 001 
+### Exercise #1 
 
 #### How to read this
 
