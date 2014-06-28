@@ -61,12 +61,14 @@ To make this a non-scary experience, make sure to try running `001_sample.rb` an
 
 * What happens if you don't do use `#strip`?
 
-#Nick Questions / Comments:
+## Nick Questions / Comments: --> Discussing in GitHub..
+
+#### Bonus Question
 
 * What happens if you don't do use `#strip`?
+
 NV: If you don't use the strip method the output won't "strip" the string output of any spaces that may be in the string?
 
-1. You used "print" while I used "puts" (put string). Is either way ok to use in this case? I guess if the code works yes?
-
-2. What is the \n you have before the input repsonse?
-
+#### Questions
+* You used "print" while I used "puts" (put string). Is either way ok to use in this case? I guess if the code works yes?
+* What is the \n you have before the input repsonse?

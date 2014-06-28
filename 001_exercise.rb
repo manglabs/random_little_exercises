@@ -1,4 +1,5 @@
-puts "Hello Mr. Mansfield! I know your last name but don't know your first name."
-puts "What's your first name?"
-name = gets.strip.capitalize
-puts "Ah yes! Thank you #{name} Mansfield! Have a nice day!"
+puts "\nHello Mr. Mansfield! What do you like most about coding?"
+response = gets.chomp.capitalize
+
+puts "\n#{response}?!"
+puts ":/ <unaccepting of your response, the interpreter openly sneers..>"
