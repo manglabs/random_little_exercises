@@ -25,7 +25,11 @@ def find_matching_socks
   orig_size = drawer.size
   until drawer.empty?
     sock = drawer.pop
-    sock == "red" ? red_socks += 1 : blue_socks += 1
+    if sock == "red"
+      red_socks += 1
+    else
+      blue_socks += 1
+    end
     if red_socks == 2 || blue_socks == 2
       puts "#{sock} pair found after #{orig_size - drawer.size} pulls!"
       break
