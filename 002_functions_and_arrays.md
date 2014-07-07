@@ -2,7 +2,7 @@
 
 ## Review of previous exercise
 
-[See the review page](001_review.md).
+[See the review page](002_review_of_exercise_1.md).
 
 **^^ This is important, don't skip it!**
 

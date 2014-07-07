@@ -26,4 +26,4 @@ In doing the exercise, you'll want to open up this page for reference:
 
 ## Coding
 
-Open up your copy of `005_exercise.rb` file, and follow the instructions there.
+Open up your copy of `005_practice_array_basics.rb` file, and follow the instructions there.
